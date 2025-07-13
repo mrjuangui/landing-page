@@ -12,8 +12,8 @@ Aquí muestro mis proyectos, habilidades y enlaces a mis redes profesionales com
 ## 📸 Captura
 ![Screenshot](img/proyecto1.png)
 
-## 🚀 Demo
-Próximamente.
+## 😎 Demo
+👉 [Ver demo en GitHub Pages](https://mrjuangui.github.io/landing-page/)
 
 ## ✍️ Autor
 👤 Juan G. Perales — Ingeniero de Sistemas
