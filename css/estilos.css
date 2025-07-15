@@ -28,3 +28,11 @@ form button {
     transform: scale(1.05);
     box-shadow: 0 0 20px rgba(0,0,0,0.3);
 }
+
+.fecha_agregado {
+    font-size: 10px;
+    color: #888;
+    margin-top: 10px;
+    text-align: right;
+    margin-right: 15px;
+}
